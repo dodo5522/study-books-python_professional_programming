@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #000E41;
+	background-color: #004080;
+}
+
+h1 {
+	padding: 0 1em;
+	color: #FFFFFF;
+}
+
+form {
+	padding: 0.1em 1em;
+	background-color: #78B8F8;
+}
+
+.main {
+	padding: 0;
+}
+
+.entries-area {
+	padding: 0.1em 2em;
+	border: 0;
+	margin: 0;
+	background-color: #FFFFFF;
+}
+
+.entries-area p {
+	padding: 0.5em 1em;
+	/* border: 3px solid #0000ff; */
+	border: 0;
+	margin: 0;
+	background-color: #DBDBEF;
+}
